@@ -1,0 +1,5 @@
+//后台页面访问URL
+http://www.video.cu/index.php/admin/Index/index
+
+//thinkphp5 开发文档阅读
+http://static.kancloud.cn/manual/thinkphp5
